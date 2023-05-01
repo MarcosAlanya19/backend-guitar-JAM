@@ -1,4 +1,4 @@
-# Bienvenido a GuitarLA-Strapi 👋
+# Welcome to GuitarLA-Strapi 👋
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
 ![Prerequisite](https://img.shields.io/badge/node-%3E%3D14.19.1%20%3C%3D18.x.x-blue.svg)
 ![Prerequisite](https://img.shields.io/badge/npm-%3E%3D6.0.0-blue.svg)
